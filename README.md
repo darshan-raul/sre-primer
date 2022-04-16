@@ -63,3 +63,8 @@ SRE:
 
 https://www.youtube.com/watch?v=OnK4IKgLl24 - What is SRE | Tasks and Responsibilities of an SRE | SRE vs DevOps
 
+
+## Agile
+
+https://www.youtube.com/watch?v=km7n3DI5IWk
+https://www.youtube.com/watch?v=KNBHQ0pyaG8
