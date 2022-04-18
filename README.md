@@ -68,3 +68,5 @@ https://www.youtube.com/watch?v=OnK4IKgLl24 - What is SRE | Tasks and Responsibi
 
 https://www.youtube.com/watch?v=km7n3DI5IWk
 https://www.youtube.com/watch?v=KNBHQ0pyaG8
+![image](https://user-images.githubusercontent.com/14124900/163681883-2179d015-5d97-44db-bcfd-f383d1cebe9f.png)
+
